@@ -19,3 +19,8 @@
 4. recommender system basic with Python - 3 Matrix Factorization
 - 파이썬을 활용해 Matrix Factorization 구현 및 이론 설명
 - kaggle의 movies dataset, movielens dataset 활용
+
+
+5. naver news recommender
+
+6. deep learning recommender system
