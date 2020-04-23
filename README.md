@@ -22,5 +22,9 @@
 
 
 5. naver news recommender
+- Naver news 데이터를 활용해 추천 시스템 적용
+- Doc2vec 등의 embedding 방법을 사용
 
 6. deep learning recommender system
+- 딥러닝 기반의 추천 시스템
+- Keras 활용
