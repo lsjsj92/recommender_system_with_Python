@@ -44,3 +44,5 @@
 - Kaggle에 있는 book 데이터를 활용한 간단한 추천 시스템 구현
 - Keras를 활용해 만들 수 있는 기본적인 추천 모형 코드
 
+**9. recommender system using ChatGPT**
+- ChatGPT을 활용한 추천 시스템
