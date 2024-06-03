@@ -46,3 +46,7 @@
 
 **9. recommender system using ChatGPT**
 - ChatGPT을 활용한 추천 시스템
+
+**10. LLM based explainability recsys**
+- LLM을 활용한 추천 시스템의 설명 가능성 부여
+- LangChain, gpt-4o 활용
